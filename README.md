@@ -1,0 +1,2 @@
+# structs
+course structure formater
