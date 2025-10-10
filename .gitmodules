@@ -1,0 +1,3 @@
+[submodule "user/al-muhdil-karim"]
+	path = user/al-muhdil-karim
+	url = git@github.com:rozard-course/content.git
