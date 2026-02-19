@@ -4,7 +4,7 @@ draft: false
 title: "Penambahan Data"
 thumb: "cover.jpg"
 meets: 4
-index: 
+index:
     llm: false
     seo: true
 author: 
