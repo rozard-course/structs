@@ -3,7 +3,7 @@ date: 2023-01-01T08:00:00-07:00
 draft: false
 title: "Penambahan Data"
 thumb: "cover.jpg"
-meets: 5
+meets: 4
 index: 
     llm: false
     seo: true
