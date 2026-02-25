@@ -29,11 +29,11 @@ author:
 report: "yuros-website/comment"
 require:
     - icon: book
-      type: Operating System
-      name: Archlinux
+      head: Operating System
+      info: Archlinux
     - icon: book
-      type: Text Editor
-      name: Visual Studio Code, Sublime, Neovim
+      head: Text Editor
+      info: Visual Studio Code, Sublime, Neovim
 description: "Course ini memberikan pemahaman mengenai konsep, teknologi, dan aplikasi perpustakaan digital. Mahasiswa akan mempelajari bagaimana mengelola, menyimpan, mengakses, dan mendistribusikan informasi digital."
 ---
 
