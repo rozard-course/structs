@@ -1,5 +1,4 @@
 ---
-date: 2026-02-02T08:00:00-07:00
 draft: false
 title: "Mekanisme Pembelajaran"
 stage: 1
@@ -8,7 +7,6 @@ index:
     seo: true
 author: 
     - "almuhdilkarim"
-lastmod: 2026-01-20T00:40:04-07:00
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
 ---
 
