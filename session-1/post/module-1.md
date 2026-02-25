@@ -8,7 +8,7 @@ index:
     seo: true
 author: 
     - "almuhdilkarim"
-lastmod: 2023-10-19T00:40:04-07:00
+lastmod: 2026-01-20T00:40:04-07:00
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
 ---
 
