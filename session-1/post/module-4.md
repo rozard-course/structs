@@ -2,9 +2,8 @@
 draft: false
 title: "Module 4"
 stage: 4
-index: 
-    llm: false
-    seo: true
+lease: 2026-02-21T08:00:00-07:00
+close: 2026-02-24T08:00:00-07:00
 author: 
     - "almuhdilkarim"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
