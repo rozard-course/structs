@@ -2,6 +2,7 @@
 date: 2025-08-09T07:00:00-07:00
 draft: false
 title: "Module Formater"
+label: "Introduction"
 thumb: "cover.jpg"
 group: "yuros"
 owner: "Al Muhdil Karim"
