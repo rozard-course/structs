@@ -24,6 +24,8 @@ class:
 index: 
     llm: false
     seo: true
+author:
+  - almuhdikkarim
 report: "yuros-website/comment"
 require:
     - icon: book

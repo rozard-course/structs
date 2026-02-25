@@ -7,6 +7,7 @@ meets: 15
 index: 
     llm: false
     seo: true
+weight: 15
 author: 
     - "almuhdilkarim"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor."
