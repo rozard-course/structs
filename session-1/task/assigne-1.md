@@ -6,7 +6,7 @@ stage: 1
 grade: 70
 group: true
 lease: 2026-02-21T08:00:00-07:00
-close: 2026-02-24T08:00:00-07:00
+close: 2026-02-28T08:00:00-07:00
 index: 
     llm: false
     seo: true
@@ -27,6 +27,7 @@ Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor.Lorem ipsu
 ## instruction 3
 Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam aliquam libero et magna suscipit vestibulum. Suspendisse condimentum ipsum vel mi luctus, nec ornare est porttitor.
 
-# Scoring Guideline
 
-<!-- more -->
+<!--more-->
+
+Setup asigne
