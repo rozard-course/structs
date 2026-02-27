@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Mekanisme Pembelajaran"
+title: "Module 1 Session 1"
 stage: 1
 lease: 2026-02-21T08:00:00-07:00
 close: 2026-02-24T08:00:00-07:00
@@ -54,6 +54,11 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+Inline-style: 
+![image-karim](image-1.png "Logo Title Text 1")
+
+
+![image-url](https://static.republika.co.id/uploads/images/xlarge/syaiful-karim_240101145305-255.jpeg "Logo Title Text 1")
 
 # Listing
 
@@ -102,7 +107,7 @@ Some text to show that the reference links can follow later.
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](cover.jpg "Logo Title Text 1")
+![alt text](image-1.png "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
@@ -131,6 +136,9 @@ No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
+
+Inline-style: 
+![alt text](image-1.png "Logo Title Text 1")
 
 
 # Footnote
