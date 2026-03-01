@@ -27,8 +27,8 @@ index:
     seo: true
 author:
   - almuhdikkarim
-github: "https://github.com/yuros-rogerlabor/packers"
 report: "yuros-website/comment"
+github: "https://github.com/yuros-rogerlabor/packers"
 require:
     - icon: book
       head: Operating System
