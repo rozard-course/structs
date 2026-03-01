@@ -7,7 +7,7 @@ thumb: "cover.jpg"
 group: "yuros"
 owner: "Al Muhdil Karim"
 level: beginer
-certs: true
+certs: false
 forum: "_-K1zvYW"
 class:
     - room: A

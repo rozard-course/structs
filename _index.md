@@ -1,8 +1,8 @@
 ---
 date: 2025-08-09T07:00:00-07:00
 draft: false
-title: "Module Formater"
-label: "Introduction"
+title: "Module Kursus"
+label: "Pengenalan"
 thumb: "cover.jpg"
 group: "yuros"
 owner: "Al Muhdil Karim"
@@ -12,16 +12,16 @@ forum: "_-K1zvYW"
 class:
     - room: A
       size: 40
-      join: ''
+      repo: ''
     - room: B
       size: 37
-      join: ''
+      repo: ''
     - room: C
       size: 37
-      join: '' 
+      repo: '' 
     - room: D
       size: 37
-      join: ''
+      repo: ''
 index: 
     llm: false
     seo: true
