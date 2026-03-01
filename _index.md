@@ -27,6 +27,7 @@ index:
     seo: true
 author:
   - almuhdikkarim
+github: "https://github.com/yuros-rogerlabor/packers"
 report: "yuros-website/comment"
 require:
     - icon: book
