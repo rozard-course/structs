@@ -36,6 +36,9 @@ require:
     - icon: book
       head: Text Editor
       info: Visual Studio Code, Sublime, Neovim
+    - icon: user
+      head: Git Repository
+      info: Github or Gitlab Account
 description: "Course ini memberikan pemahaman mengenai konsep, teknologi, dan aplikasi perpustakaan digital. Mahasiswa akan mempelajari bagaimana mengelola, menyimpan, mengakses, dan mendistribusikan informasi digital."
 ---
 
